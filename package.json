@@ -1,0 +1,20 @@
+{
+  "name": "async-latest",
+  "version": "1.0.0",
+  "description": "Ensures that an async function only calls back with latest result",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "keywords": [
+    "async",
+    "latest",
+    "recent",
+    "react"
+  ],
+  "author": "Clayton Grassick",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.0"
+  }
+}
